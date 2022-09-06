@@ -1,7 +1,7 @@
 {
   "name": "03-react-router",
   "version": "0.1.0",
-  "homepage": "https://mgoproud.github.io/react_course_deploy_gh",
+  "homepage": "https://mgoproud.github.io/react_deploy_gh",
   "private": true,
   "dependencies": {
     "axios": "^0.27.2",
